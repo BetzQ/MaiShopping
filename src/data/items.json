@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Buku Belajar Bahasa Inggris",
+        "price": 90000,
+        "imgUrl": "/imgs/book.jpg",
+        "category": "Buku"
+    },
+    {
+        "id": 2,
+        "name": "Laptop Gaming",
+        "price": 5000000,
+        "imgUrl": "/imgs/computer.jpg",
+        "category": "Elektronik"
+    },
+    {
+        "id": 3,
+        "name": "Pisang Cavendish",
+        "price": 7000,
+        "imgUrl": "/imgs/banana.jpg",
+        "category": "Makanan"
+    },
+    {
+        "id": 4,
+        "name": "Mobil SUV",
+        "price": 200000000,
+        "imgUrl": "/imgs/car.jpg",
+        "category": "Kendaraan"
+    },
+    {
+        "id": 5,
+        "name": "Sepatu Olahraga",
+        "price": 350000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?fashion",
+        "category": "Fashion"
+    },
+    {
+        "id": 6,
+        "name": "Kamera Mirrorless",
+        "price": 1500000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?electronics",
+        "category": "Elektronik"
+    },
+    {
+        "id": 7,
+        "name": "Kopi Arabika",
+        "price": 25000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?beverage",
+        "category": "Minuman"
+    },
+    {
+        "id": 8,
+        "name": "Topi Baseball",
+        "price": 80000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?fashion",
+        "category": "Fashion"
+    },
+    {
+        "id": 9,
+        "name": "Smartphone Android",
+        "price": 3000000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?electronics",
+        "category": "Elektronik"
+    },
+    {
+        "id": 10,
+        "name": "Roti Tawar",
+        "price": 5000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?food",
+        "category": "Makanan"
+    },
+    {
+        "id": 11,
+        "name": "Tas Ransel",
+        "price": 200000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?fashion",
+        "category": "Fashion"
+    },
+    {
+        "id": 12,
+        "name": "Jam Tangan Pria",
+        "price": 1000000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?fashion",
+        "category": "Fashion"
+    },
+    {
+        "id": 13,
+        "name": "Baju Renang Wanita",
+        "price": 150000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?fashion",
+        "category": "Fashion"
+    },
+    {
+        "id": 14,
+        "name": "Permen Karet",
+        "price": 2000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?food",
+        "category": "Makanan"
+    },
+    {
+        "id": 15,
+        "name": "Kursi Kantor Ergonomis",
+        "price": 800000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?furniture",
+        "category": "Furnitur"
+    },
+    {
+        "id": 16,
+        "name": "Headphone Bluetooth",
+        "price": 300000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?electronics",
+        "category": "Elektronik"
+    },
+    {
+        "id": 17,
+        "name": "Celana Jeans Pria",
+        "price": 250000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?fashion",
+        "category": "Fashion"
+    },
+    {
+        "id": 18,
+        "name": "Mouse Gaming",
+        "price": 150000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?electronics",
+        "category": "Elektronik"
+    },
+    {
+        "id": 19,
+        "name": "Teh Hijau",
+        "price": 10000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?beverage",
+        "category": "Minuman"
+    },
+    {
+        "id": 20,
+        "name": "Kaos Polos",
+        "price": 50000,
+        "imgUrl": "https://source.unsplash.com/1200x400/?fashion",
+        "category": "Fashion"
+    }
+]
