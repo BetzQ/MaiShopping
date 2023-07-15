@@ -20,7 +20,7 @@ import Container from '@mui/material/Container'
 import { useShoppingCart } from '../context/useShoppingCart'
 
 const pages = [
-  { label: 'Store', link: '/store' },
+  { label: 'Store', link: '/' },
   { label: 'About', link: '/about' },
 ]
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout']
