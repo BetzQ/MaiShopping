@@ -25,7 +25,7 @@ const Payment: React.FC = () => {
     localStorage.removeItem('shopping-cart')
     localStorage.setItem('paymentSuccess', 'true')
     removeAllFromCart()
-    navigate('/store')
+    navigate('/')
   }
 
   const total = cartItems.reduce((total, cartItem) => {
@@ -52,7 +52,7 @@ const Payment: React.FC = () => {
   }
 
   if (!cartItems.length) {
-    navigate('/store')
+    navigate('/')
     return null
   }
 

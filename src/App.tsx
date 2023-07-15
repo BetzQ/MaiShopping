@@ -22,7 +22,7 @@ interface RouteConfig {
 
 const routes: RouteConfig[] = [
   {
-    path: '/store/*',
+    path: '/',
     element: <Store />,
     withLayout: true,
   },
@@ -37,7 +37,7 @@ const routes: RouteConfig[] = [
   },
   {
     path: '*',
-    element: <Navigate to="/store" />,
+    element: <Navigate to="/" />,
   },
 ]
 
